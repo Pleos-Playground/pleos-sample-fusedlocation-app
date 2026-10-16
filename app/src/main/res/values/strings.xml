@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FusedLocation Sample</string>
+    <string name="service_unavailable_message">The FusedLocation service is not installed in this environment.</string>
+    <string name="permission_required_message">FusedLocation permission is required to use the SDK.</string>
+    <string name="location_unavailable_message">No location is currently available.</string>
+    <string name="unknown_error_message">An unknown FusedLocation error occurred.</string>
+    <string name="proximity_description">Register an alert around the latest received position. The center stays fixed until the alert is removed.</string>
+    <string name="proximity_area">Center: %1$.6f, %2$.6f • Radius: %3$.0fm</string>
+    <string name="proximity_center_hint">The latest received position will become the center when you register.</string>
+    <string name="proximity_location_required">Receive a location first using Start live updates or Get last known location.</string>
+    <string name="proximity_registering">Registering…</string>
+    <string name="proximity_register">Register at latest position</string>
+    <string name="proximity_mock_hint">Mock test: Inside injects the registered center; Outside injects a point three radii away. This changes the received location and does not represent actual movement.</string>
+</resources>
