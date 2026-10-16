@@ -1,4 +1,4 @@
-# FusedLocation Sample
+# Pleos FusedLocation SDK Android Sample
 
 A sample Android app that demonstrates how to use the Pleos FusedLocation SDK.
 
